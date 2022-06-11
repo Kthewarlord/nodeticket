@@ -1,0 +1,16 @@
+{
+  "name": "ticketserver",
+  "version": "1.0.0",
+  "description": "Nodejs Ticket Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Ken",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.3",
+    "express": "^4.18.1",
+    "mongodb": "^4.6.0"
+  }
+}
